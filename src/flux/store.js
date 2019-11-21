@@ -3,7 +3,7 @@ import {EventEmitter} from 'events'
 const store = {
     list:[
         {
-            name:"张三",
+            name:"张三33333",
             content:"hehehehehehe"
         }
     ],
