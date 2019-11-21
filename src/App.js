@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <h1>对React的评论</h1>
+        <h1>对React的评论1111</h1>
         <Left />
         <Right />
       </div>
